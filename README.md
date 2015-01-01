@@ -1,9 +1,6 @@
 QuadcopterWithRaspberrypi
 =========================
 
-RaspberryPi on Quadcopter controlled by iOS app
-
-Buy a quadcopter and RaspberryPi, plan to assemble them together then write Go! code to drive them.
-Write iOS application for remote control.
+A Golang version quadcopter on raspberry-pi
 
 Expect to accomplish at the end of 2015
